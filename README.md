@@ -1,7 +1,7 @@
 # html-debugger-realtime
 
 
-yarn start
+yarn
 
 
 gulp serve
